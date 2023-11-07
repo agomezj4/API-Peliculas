@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/agomezj/Desktop/Data Science/Bases de Datos/Tópicos/03-Bases_Embebidas/my-movie-api/fastAPI/bin/python" "$0" "$@"
+'''exec' "/Users/agomezj/Desktop/Data Science/Bases de Datos/Tópicos/03-Bases_Embebidas/API-Peliculas/fastAPI/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
